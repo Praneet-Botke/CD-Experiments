@@ -12,5 +12,11 @@
 # Elimination of Left Recursion
 ![image](https://user-images.githubusercontent.com/88475001/161589120-fe1b3617-c58f-49d4-a38a-0d9fcd15d5f4.png)
 
+# Elimination of Left Factoring 
+![image](https://user-images.githubusercontent.com/88475001/161716329-89dc3211-0613-40e6-87c8-7833c69f89e5.png)
+
+# First & Follow
+![image](https://user-images.githubusercontent.com/88475001/161716463-661bc8eb-f154-4e8a-af8b-e09ad84aaa3c.png)
+
 
 
