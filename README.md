@@ -21,5 +21,9 @@
 # Shift Reducer Parser
 ![image](https://user-images.githubusercontent.com/88475001/167456251-1920f053-fa01-4120-8aca-cbc480f99403.png)
 
+# Leading & Trailing 
+![image](https://user-images.githubusercontent.com/88475001/167467364-ad06faa8-437f-404b-bac9-9b89659bd5f9.png)
+
+
 
 
