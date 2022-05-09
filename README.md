@@ -24,6 +24,12 @@
 # Leading & Trailing 
 ![image](https://user-images.githubusercontent.com/88475001/167467364-ad06faa8-437f-404b-bac9-9b89659bd5f9.png)
 
+# Infix to Prefix
+![image](https://user-images.githubusercontent.com/88475001/167485427-9883a53a-6efc-45ce-9a5d-0f973ca5ef7f.png)
+
+# Infix to Postfix
+![image](https://user-images.githubusercontent.com/88475001/167485501-66132d97-8720-4387-90db-0fe6fc34c7c9.png)
+
 
 
 
